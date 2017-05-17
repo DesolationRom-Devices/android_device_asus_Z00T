@@ -1,6 +1,20 @@
 [
   {
     "repository": "device_asus_msm8916-common",
-    "target_path": "device/asus/msm8916-common"
+    "target_path": "device/asus/msm8916-common",
+    "remote": "deso-devices",
+    "branch": "n"
+  },
+  {
+    "repository": "kernel_asus_msm8916",
+    "target_path": "kernel/asus/msm8916",
+    "remote": "deso-devices",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "vendor_asus",
+    "target_path": "vendor/asus",
+    "remote": "deso-devices",
+    "branch": "n"
   }
 ]
